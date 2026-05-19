@@ -5,7 +5,8 @@
 > **프로젝트 기간:** 2026.06.08 ~ 2026.06.12 / **난이도:** ★★★☆☆
 
 ## 프로젝트 구성도
-<img width="1622" height="1128" alt="AWS구성도_최종의 최종" src="https://github.com/user-attachments/assets/57ccbe39-5277-41e7-9553-fcf065e903b1" />
+<img width="1622" height="1128" alt="AWS구성도_찐막" src="https://github.com/user-attachments/assets/3965e382-fa34-4718-ba7c-8bb4b4ba2871" />
+
 
 
 ## 프로젝트 목표:
