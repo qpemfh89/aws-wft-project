@@ -5,8 +5,7 @@
 > **프로젝트 기간:** 2026.06.08 ~ 2026.06.12 / **난이도:** ★★★☆☆
 
 ## 프로젝트 구성도
-<img width="1622" height="1128" alt="AWS구성도_찐막" src="https://github.com/user-attachments/assets/3965e382-fa34-4718-ba7c-8bb4b4ba2871" />
-
+<img width="1622" height="1408" alt="AWS구성도_찐찐막" src="https://github.com/user-attachments/assets/a21a8171-03a8-4511-95eb-9cd975537b40" />
 
 
 ## 프로젝트 목표:
@@ -34,4 +33,4 @@
 5. 해외 접속 시 해당 리전에 맞는 표준 시간대로 변경하여 조회
 
 ---
-Copyright (C) 2026. NETID
+Copyright (C) 2026. WFT
